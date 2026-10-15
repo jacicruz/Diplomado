@@ -1,0 +1,7 @@
+.venv/
+venv/
+__pychache__/
+.DS_Store
+.vscode/
+data/*.csv
+
